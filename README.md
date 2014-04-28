@@ -1,1 +1,4 @@
-[Node.js lesson's warm-up - Lesson 1](http://d.fork2.com/t/warm-1-create-an-npm-package/141)
+## Node.js Lesson's warm-up
+
+[Warmup 1 - Create An NPM Package](http://d.fork2.com/t/warm-1-create-an-npm-package/141)
+[Warmup 2 - Setting Up Mocha For Testing](http://d.fork2.com/t/warmup-2-setting-up-mocha-for-testing/156)
