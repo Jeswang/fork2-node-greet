@@ -1,6 +1,6 @@
 describe('greet', function(){
 
-  greet = require("../index.js");
+  greet = require("../lib/index.js");
 
   it("should greet a person by name", function(){
     expect(greet('jesse')).to.eql("hello, jesse");
